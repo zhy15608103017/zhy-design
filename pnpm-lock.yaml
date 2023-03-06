@@ -6,13 +6,13 @@ importers:
     specifiers:
       '@changesets/cli': ^2.25.2
       eslint: ^8.29.0
-      eslint-config-zhyDesign: workspace:0.0.0
+      eslint-config-cushily: workspace:0.0.0
       prettier: ^2.8.0
       turbo: latest
     devDependencies:
       '@changesets/cli': 2.25.2
       eslint: 8.29.0
-      eslint-config-zhyDesign: link:packages/eslint-config-acme
+      eslint-config-cushily: link:packages/eslint-config-acme
       prettier: 2.8.0
       turbo: 1.8.3
 
@@ -27,7 +27,7 @@ importers:
       '@vitejs/plugin-react': ^1.3.2
       '@zhyDesign/core': workspace:0.0.0
       '@zhyDesign/tsconfig': workspace:0.0.0
-      eslint-config-zhyDesign: workspace:0.0.0
+      eslint-config-cushily: workspace:0.0.0
       react: ^18.2.0
       react-dom: ^18.2.0
       serve: ^13.0.4
@@ -46,7 +46,7 @@ importers:
       '@storybook/react': 6.5.14_kvf5geqpu5lsuowekldej2ox2i
       '@vitejs/plugin-react': 1.3.2
       '@zhyDesign/tsconfig': link:../../packages/acme-tsconfig
-      eslint-config-zhyDesign: link:../../packages/eslint-config-acme
+      eslint-config-cushily: link:../../packages/eslint-config-acme
       serve: 13.0.4
       typescript: 4.9.3
       vite: 2.9.15
@@ -57,7 +57,7 @@ importers:
       '@types/react-dom': ^18.0.4
       '@zhyDesign/tsconfig': workspace:*
       eslint: ^8.15.0
-      eslint-config-zhyDesign: workspace:*
+      eslint-config-cushily: workspace:*
       react: ^18.1.0
       tsup: ^5.10.1
       typescript: ^4.5.3
@@ -66,7 +66,7 @@ importers:
       '@types/react-dom': 18.0.9
       '@zhyDesign/tsconfig': link:../acme-tsconfig
       eslint: 8.29.0
-      eslint-config-zhyDesign: link:../eslint-config-acme
+      eslint-config-cushily: link:../eslint-config-acme
       react: 18.2.0
       tsup: 5.12.9_typescript@4.9.3
       typescript: 4.9.3
@@ -80,7 +80,7 @@ importers:
       '@types/react-dom': ^18.0.4
       '@zhyDesign/tsconfig': workspace:*
       eslint: ^8.15.0
-      eslint-config-zhyDesign: workspace:*
+      eslint-config-cushily: workspace:*
       react: ^18.1.0
       tsup: ^5.10.1
       typescript: ^4.5.3
@@ -89,7 +89,7 @@ importers:
       '@types/react-dom': 18.0.9
       '@zhyDesign/tsconfig': link:../acme-tsconfig
       eslint: 8.29.0
-      eslint-config-zhyDesign: link:../eslint-config-acme
+      eslint-config-cushily: link:../eslint-config-acme
       react: 18.2.0
       tsup: 5.12.9_typescript@4.9.3
       typescript: 4.9.3
