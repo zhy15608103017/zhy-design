@@ -25,7 +25,5 @@
     "tsup": "^5.10.1",
     "typescript": "^4.5.3"
   },
-  "publishConfig": {
-    "access": "public"
-  }
+
 }
